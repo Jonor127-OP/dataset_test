@@ -14,10 +14,10 @@ Requires python 3.10 or higher
 Run
 ----
 
-> python3 annotation_gui.py
+> python3 annotation_gui.py antoine_examples.json
 
-This launches a demo reading and writing to the file `essais.json`
-containing 100 annotated examples .
+This launches a demo reading and writing to the file `antoine_examples.json`
+containing 20 examples .
 
 
 

@@ -24,7 +24,7 @@
     {"question_id": 16,"intent": "regex for repeating words in a string in Python", "code": "https://stackoverflow.com/questions/25474338", "package": [], "labels": [], "tests cases": [], "templates": [], "tags": ["python", "regex"], "usability": ["yes"], "url": "https://stackoverflow.com/questions/25474338", "id_so": 25474338, "type": "SO_mined"},
   {"question_id": 17,"intent": "Ordering a list of dictionaries in python ", "code": "https://stackoverflow.com/questions/861190", "package": [], "labels": [], "tests cases": [], "templates": [], "tags": ["python", "list", "dictionary"], "usability": ["yes"], "url": "https://stackoverflow.com/questions/861190", "id_so": 861190, "type": "SO_mined"},
   {"question_id": 18,"intent": "How to zip lists in a list", "code": "https://stackoverflow.com/questions/4112265", "package": [], "labels": [], "tests cases": [], "templates": [], "tags": ["python", "functional-programming"], "usability": ["yes"], "url": "https://stackoverflow.com/questions/4112265", "id_so": 4112265, "type": "SO_mined"},
-  {"question_id": 19,"intent": "Clamping floating numbers in Python? ", "code": "https://stackoverflow.com/questions/9775731", "package": [], "labels": [], "tests cases": [], "templates": [], "tags": ["python", "math", "clamp"], "usability": ["yes"], "url": "https://stackoverflow.com/questions/9775731", "id_so": 9775731, "type": "SO_mined"},
+  {"question_id": 19,"intent": "Clamping floating numbers in Python? ", "code": "https://stackoverflow.com/questions/9775731", "package": [], "labels": [], "tests cases": [], "templates": [], "tags": ["python", "math", "clamp"], "usability": ["yes"], "url": "https://stackoverflow.com/questions/9775731", "id_so": 9775731, "type": "SO_mined"}
 ]
 
 
